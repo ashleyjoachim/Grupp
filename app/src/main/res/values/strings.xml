@@ -27,6 +27,14 @@
     <string name="calculating">Searching Venues...</string>
     <string name="event_channel_name">Events Notification</string>
     <string name="channel_description">Events Notifications</string>
+
+    <string name="new_event">New Event!</string>
+
     <string name="image_source">\"Select Image Source\"</string>
+    <string name="title_activity_event_detail">EventDetailActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
 
 </resources>
